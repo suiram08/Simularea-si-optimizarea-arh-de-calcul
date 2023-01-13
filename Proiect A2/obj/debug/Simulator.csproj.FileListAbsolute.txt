@@ -1,0 +1,121 @@
+D:\Student\Simulator\Simulator\obj\Debug\Simulator.exe
+D:\Student\Simulator\Simulator\obj\Debug\Simulator.pdb
+C:\Users\cipav\Desktop\Simulator\Simulator\obj\Debug\Simulator.exe
+C:\Users\cipav\Desktop\Simulator\Simulator\obj\Debug\Simulator.pdb
+C:\Users\cipav\Desktop\Simulator\Simulator\bin\Debug\Simulator.exe
+C:\Users\cipav\Desktop\Simulator\Simulator\bin\Debug\Simulator.pdb
+C:\Users\cipav\Desktop\Simulator\Simulator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cipav\Desktop\Simulator\Simulator\obj\Debug\Simulator.Form1.resources
+C:\Users\cipav\Desktop\Simulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\cipav\Desktop\Simulator\Simulator\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\cipav\Desktop\Simulator\Simulator\obj\Debug\GenerateResource.write.1.tlog
+D:\Temp\Facultate\Facultate 4\Soac\Simulator\Simulator\Simulator\obj\Debug\Simulator.exe
+D:\Temp\Facultate\Facultate 4\Soac\Simulator\Simulator\Simulator\obj\Debug\Simulator.pdb
+E:\School Stuff\An 4\Sem I\S.O.A.C\Proiect\De la dorin\Soac proiect\Simulator\Simulator\Simulator\obj\Debug\Simulator.exe
+E:\School Stuff\An 4\Sem I\S.O.A.C\Proiect\De la dorin\Soac proiect\Simulator\Simulator\Simulator\obj\Debug\Simulator.pdb
+E:\School Stuff\An 4\Sem I\S.O.A.C\Proiect\De la dorin\Soac proiect\Simulator\Simulator\Simulator\bin\Debug\Simulator.exe
+E:\School Stuff\An 4\Sem I\S.O.A.C\Proiect\De la dorin\Soac proiect\Simulator\Simulator\Simulator\bin\Debug\Simulator.pdb
+E:\School Stuff\An 4\Sem I\S.O.A.C\Proiect\De la dorin\Soac proiect\Simulator\Simulator\Simulator\obj\Debug\ResolveAssemblyReference.cache
+E:\School Stuff\An 4\Sem I\S.O.A.C\Proiect\De la dorin\Soac proiect\Simulator\Simulator\Simulator\obj\Debug\Simulator.Form1.resources
+E:\School Stuff\An 4\Sem I\S.O.A.C\Proiect\De la dorin\Soac proiect\Simulator\Simulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+E:\School Stuff\An 4\Sem I\S.O.A.C\Proiect\De la dorin\Soac proiect\Simulator\Simulator\Simulator\obj\Debug\GenerateResource.read.1.tlog
+E:\School Stuff\An 4\Sem I\S.O.A.C\Proiect\De la dorin\Soac proiect\Simulator\Simulator\Simulator\obj\Debug\GenerateResource.write.1.tlog
+E:\School Stuff\An 4\Sem I\S.O.A.C\Proiect\De la dorin\Soac proiect\Simulator (looks god)\Simulator\Simulator\obj\Debug\Simulator.exe
+E:\School Stuff\An 4\Sem I\S.O.A.C\Proiect\De la dorin\Soac proiect\Simulator (looks god)\Simulator\Simulator\obj\Debug\Simulator.pdb
+E:\School Stuff\An 4\Sem I\S.O.A.C\Proiect\Simulator (looks god)\Simulator\Simulator\obj\Debug\Simulator.exe
+E:\School Stuff\An 4\Sem I\S.O.A.C\Proiect\Simulator (looks god)\Simulator\Simulator\obj\Debug\Simulator.pdb
+E:\School Stuff\An 4\Sem I\S.O.A.C\Proiect\Simulator (looks god)\Simulator\Simulator\bin\Debug\Simulator.exe
+E:\School Stuff\An 4\Sem I\S.O.A.C\Proiect\Simulator (looks god)\Simulator\Simulator\bin\Debug\Simulator.pdb
+E:\School Stuff\An 4\Sem I\S.O.A.C\Proiect\Simulator (looks god)\Simulator\Simulator\obj\Debug\ResolveAssemblyReference.cache
+E:\School Stuff\An 4\Sem I\S.O.A.C\Proiect\Simulator (looks god)\Simulator\Simulator\obj\Debug\Simulator.Form1.resources
+E:\School Stuff\An 4\Sem I\S.O.A.C\Proiect\Simulator (looks god)\Simulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+E:\School Stuff\An 4\Sem I\S.O.A.C\Proiect\Simulator (looks god)\Simulator\Simulator\obj\Debug\GenerateResource.read.1.tlog
+E:\School Stuff\An 4\Sem I\S.O.A.C\Proiect\Simulator (looks god)\Simulator\Simulator\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\illye\Desktop\anul 4\SOAC\simulator\obj\Debug\Simulator.exe
+C:\Users\illye\Desktop\anul 4\SOAC\simulator\obj\Debug\Simulator.pdb
+C:\Users\illye\Desktop\anul 4\SOAC\simulator\bin\Debug\Simulator.exe
+C:\Users\illye\Desktop\anul 4\SOAC\simulator\bin\Debug\Simulator.pdb
+C:\Users\illye\Desktop\anul 4\SOAC\simulator\obj\Debug\Simulator.csprojResolveAssemblyReference.cache
+C:\Users\illye\Desktop\anul 4\SOAC\simulator\obj\Debug\Simulator.Form1.resources
+C:\Users\illye\Desktop\anul 4\SOAC\simulator\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\illye\Desktop\anul 4\SOAC\simulator\obj\Debug\Simulator.csproj.GenerateResource.Cache
+C:\Users\illye\Desktop\anul 4\SOAC\simula1tor\obj\Debug\Simulator.exe
+C:\Users\illye\Desktop\anul 4\SOAC\simula1tor\obj\Debug\Simulator.pdb
+C:\Users\illye\Desktop\anul 4\SOAC\simula1tor\bin\Debug\Simulator.exe
+C:\Users\illye\Desktop\anul 4\SOAC\simula1tor\bin\Debug\Simulator.pdb
+C:\Users\illye\Desktop\anul 4\SOAC\simula1tor\obj\Debug\Simulator.csprojResolveAssemblyReference.cache
+C:\Users\illye\Desktop\anul 4\SOAC\simula1tor\obj\Debug\Simulator.Form1.resources
+C:\Users\illye\Desktop\anul 4\SOAC\simula1tor\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\illye\Desktop\anul 4\SOAC\simula1tor\obj\Debug\Simulator.csproj.GenerateResource.Cache
+C:\Users\Flavius\Desktop\simula1tor\obj\Debug\Simulator.exe
+C:\Users\Flavius\Desktop\simula1tor\obj\Debug\Simulator.pdb
+C:\Users\Flavius\Desktop\simula1tor\bin\Debug\Simulator.exe
+C:\Users\Flavius\Desktop\simula1tor\bin\Debug\Simulator.pdb
+C:\Users\Flavius\Desktop\simula1tor\obj\Debug\Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Flavius\Desktop\simula1tor\obj\Debug\Simulator.Form1.resources
+C:\Users\Flavius\Desktop\simula1tor\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\Flavius\Desktop\simula1tor\obj\Debug\Simulator.csproj.GenerateResource.Cache
+C:\Users\Flavius\Documents\Facultate\Semestrul 1\Simularea si Optimizarea Arhitecturilor de Calcul\proiect radut a2\obj\Debug\Simulator.exe
+C:\Users\Flavius\Documents\Facultate\Semestrul 1\Simularea si Optimizarea Arhitecturilor de Calcul\proiect radut a2\obj\Debug\Simulator.pdb
+C:\Users\Flavius\Documents\Facultate\Semestrul 1\Simularea si Optimizarea Arhitecturilor de Calcul\proiect radut a2\bin\Debug\Simulator.exe
+C:\Users\Flavius\Documents\Facultate\Semestrul 1\Simularea si Optimizarea Arhitecturilor de Calcul\proiect radut a2\bin\Debug\Simulator.pdb
+C:\Users\Flavius\Documents\Facultate\Semestrul 1\Simularea si Optimizarea Arhitecturilor de Calcul\proiect radut a2\obj\Debug\Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Flavius\Documents\Facultate\Semestrul 1\Simularea si Optimizarea Arhitecturilor de Calcul\proiect radut a2\obj\Debug\Simulator.Form1.resources
+C:\Users\Flavius\Documents\Facultate\Semestrul 1\Simularea si Optimizarea Arhitecturilor de Calcul\proiect radut a2\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\Flavius\Documents\Facultate\Semestrul 1\Simularea si Optimizarea Arhitecturilor de Calcul\proiect radut a2\obj\Debug\Simulator.csproj.GenerateResource.Cache
+E:\Facultate\An IV\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\proiect radut a2\obj\Debug\Simulator.exe
+E:\Facultate\An IV\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\proiect radut a2\obj\Debug\Simulator.pdb
+E:\Facultate\An IV\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\proiect radut a2\bin\Debug\Simulator.exe
+E:\Facultate\An IV\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\proiect radut a2\bin\Debug\Simulator.pdb
+E:\Facultate\An IV\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\proiect radut a2\obj\Debug\Simulator.csprojResolveAssemblyReference.cache
+E:\Facultate\An IV\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\proiect radut a2\obj\Debug\Simulator.Form1.resources
+E:\Facultate\An IV\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\proiect radut a2\obj\Debug\Simulator.Properties.Resources.resources
+E:\Facultate\An IV\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\proiect radut a2\obj\Debug\Simulator.csproj.GenerateResource.Cache
+E:\Facultate\An IV\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\Proiect A2\obj\Debug\Simulator.exe
+E:\Facultate\An IV\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\Proiect A2\obj\Debug\Simulator.pdb
+E:\Facultate\An IV\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\Proiect A2\bin\Debug\Simulator.exe
+E:\Facultate\An IV\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\Proiect A2\bin\Debug\Simulator.pdb
+E:\Facultate\An IV\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\Proiect A2\obj\Debug\Simulator.csprojResolveAssemblyReference.cache
+E:\Facultate\An IV\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\Proiect A2\obj\Debug\Simulator.Form1.resources
+E:\Facultate\An IV\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\Proiect A2\obj\Debug\Simulator.Properties.Resources.resources
+E:\Facultate\An IV\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\Proiect A2\obj\Debug\Simulator.csproj.GenerateResource.Cache
+D:\an4-sem1\arhiva\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\Proiect A2\bin\Debug\Simulator.exe
+D:\an4-sem1\arhiva\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\Proiect A2\bin\Debug\Simulator.pdb
+D:\an4-sem1\arhiva\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\Proiect A2\obj\Debug\Simulator.csprojAssemblyReference.cache
+D:\an4-sem1\arhiva\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\Proiect A2\obj\Debug\Simulator.Form1.resources
+D:\an4-sem1\arhiva\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\Proiect A2\obj\Debug\Simulator.Properties.Resources.resources
+D:\an4-sem1\arhiva\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\Proiect A2\obj\Debug\Simulator.csproj.GenerateResource.cache
+D:\an4-sem1\arhiva\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\Proiect A2\obj\Debug\Simulator.csproj.CoreCompileInputs.cache
+D:\an4-sem1\arhiva\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\Proiect A2\obj\Debug\Simulator.exe
+D:\an4-sem1\arhiva\Semestrul I\Simularea si Optimizarea Arhitecturiilor de Calcul\Proiect A2\obj\Debug\Simulator.pdb
+C:\Users\cente\OneDrive\Desktop\soac proiecte\Proiect A2\bin\Debug\Simulator.exe
+C:\Users\cente\OneDrive\Desktop\soac proiecte\Proiect A2\bin\Debug\Simulator.pdb
+C:\Users\cente\OneDrive\Desktop\soac proiecte\Proiect A2\obj\Debug\Simulator.csprojAssemblyReference.cache
+C:\Users\cente\OneDrive\Desktop\soac proiecte\Proiect A2\obj\Debug\Simulator.Form1.resources
+C:\Users\cente\OneDrive\Desktop\soac proiecte\Proiect A2\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\cente\OneDrive\Desktop\soac proiecte\Proiect A2\obj\Debug\Simulator.csproj.GenerateResource.cache
+C:\Users\cente\OneDrive\Desktop\soac proiecte\Proiect A2\obj\Debug\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\cente\OneDrive\Desktop\soac proiecte\Proiect A2\obj\Debug\Simulator.exe
+C:\Users\cente\OneDrive\Desktop\soac proiecte\Proiect A2\obj\Debug\Simulator.pdb
+C:\Users\Marius\Desktop\Proiect A2\bin\Debug\Simulator.exe.config
+C:\Users\Marius\Desktop\Proiect A2\bin\Debug\Simulator.exe
+C:\Users\Marius\Desktop\Proiect A2\bin\Debug\Simulator.pdb
+C:\Users\Marius\Desktop\Proiect A2\obj\Debug\Simulator.csproj.AssemblyReference.cache
+C:\Users\Marius\Desktop\Proiect A2\obj\Debug\Simulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marius\Desktop\Proiect A2\obj\Debug\Simulator.Form1.resources
+C:\Users\Marius\Desktop\Proiect A2\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\Marius\Desktop\Proiect A2\obj\Debug\Simulator.csproj.GenerateResource.cache
+C:\Users\Marius\Desktop\Proiect A2\obj\Debug\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\Proiect A2\obj\Debug\Simulator.exe
+C:\Users\Marius\Desktop\Proiect A2\obj\Debug\Simulator.pdb
+F:\Proiect A2\bin\Debug\Simulator.exe.config
+F:\Proiect A2\bin\Debug\Simulator.exe
+F:\Proiect A2\bin\Debug\Simulator.pdb
+F:\Proiect A2\obj\Debug\Simulator.csproj.AssemblyReference.cache
+F:\Proiect A2\obj\Debug\Simulator.csproj.SuggestedBindingRedirects.cache
+F:\Proiect A2\obj\Debug\Simulator.Form1.resources
+F:\Proiect A2\obj\Debug\Simulator.Properties.Resources.resources
+F:\Proiect A2\obj\Debug\Simulator.csproj.GenerateResource.cache
+F:\Proiect A2\obj\Debug\Simulator.csproj.CoreCompileInputs.cache
+F:\Proiect A2\obj\Debug\Simulator.exe
+F:\Proiect A2\obj\Debug\Simulator.pdb

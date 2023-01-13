@@ -1,0 +1,16 @@
+E:\workspace c++\Simulator\Simulator\bin\Debug\Simulator.exe
+E:\workspace c++\Simulator\Simulator\bin\Debug\Simulator.pdb
+E:\workspace c++\Simulator\Simulator\obj\Debug\ResolveAssemblyReference.cache
+E:\workspace c++\Simulator\Simulator\obj\Debug\Simulator.Form1.resources
+E:\workspace c++\Simulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+E:\workspace c++\Simulator\Simulator\obj\Debug\Simulator.csproj.GenerateResource.Cache
+E:\workspace c++\Simulator\Simulator\obj\Debug\Simulator.exe
+E:\workspace c++\Simulator\Simulator\obj\Debug\Simulator.pdb
+C:\Documents and Settings\Victor\Desktop\Simulator\Simulator\obj\Debug\Simulator.exe
+C:\Documents and Settings\Victor\Desktop\Simulator\Simulator\obj\Debug\Simulator.pdb
+C:\Documents and Settings\Victor\Desktop\Simulator\Simulator\bin\Debug\Simulator.exe
+C:\Documents and Settings\Victor\Desktop\Simulator\Simulator\bin\Debug\Simulator.pdb
+C:\Documents and Settings\Victor\Desktop\Simulator\Simulator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Victor\Desktop\Simulator\Simulator\obj\Debug\Simulator.Form1.resources
+C:\Documents and Settings\Victor\Desktop\Simulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+C:\Documents and Settings\Victor\Desktop\Simulator\Simulator\obj\Debug\Simulator.csproj.GenerateResource.Cache

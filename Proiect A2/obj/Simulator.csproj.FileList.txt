@@ -1,0 +1,8 @@
+obj\Debug\Simulator.exe
+obj\Debug\Simulator.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Simulator.Form1.resources
+obj\Debug\Simulator.Properties.Resources.resources
+obj\Debug\Simulator.csproj.GenerateResource.Cache
+bin\Debug\Simulator.exe
+bin\Debug\Simulator.pdb
